@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/chandanust/smart-brain-api/issues"
   },
-  "homepage": "https://github.com/chandanust/smart-brain-api#readme"
+  "homepage": "https://github.com/chandanust/smart-brain-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "knex": "^0.19.4",
+    "nodemon": "^1.19.3"
+  }
 }
